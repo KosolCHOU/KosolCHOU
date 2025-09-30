@@ -1,40 +1,36 @@
-# Chou Kosol
+# Hi, I'm Chou Kosol 👋  
+**Aspiring Data Scientist & Machine Learning Engineer**  
 
-🎓 Data Science Student | Institute of Technology of Cambodia (ITC)  
-📍 Phnom Penh, Cambodia  
+📍 Phnom Penh, Cambodia | 🎓 Data Science Student, ITC  
 
----
-
-## 👨‍💻 About Me
-I am a **data science student** passionate about transforming data into actionable insights.  
-My interests lie in **machine learning, geospatial analysis, and smart agriculture**.  
-Currently, I am seeking **internship opportunities** to apply my knowledge in real-world projects and grow into a career-oriented data scientist.  
+I’m passionate about turning complex data into actionable insights.  
+I specialize in **machine learning, time series forecasting, and geospatial analysis**, with a strong interest in applying these skills to real-world problems like **agriculture and predictive modeling**.  
+Currently, I am seeking **internship opportunities** to gain industry experience and contribute to innovative data-driven solutions.  
 
 ---
 
-## 🔧 Skills
-- **Programming & Analysis**: Python, SQL, Data Visualization  
-- **Machine Learning & Forecasting**: Time Series, Deep Learning, Predictive Modeling  
-- **Geospatial Data**: Sentinel-1 & Sentinel-2 Processing, Remote Sensing  
+## 🔧 Technical Expertise
+- **Programming & Development**: Python, SQL, R, Git/GitHub  
+- **Machine Learning & AI**: scikit-learn, TensorFlow, XGBoost  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Geospatial Processing**: Sentinel-1/2, Remote Sensing, Spatial Analysis  
 - **Soft Skills**: Team Collaboration, Problem Solving, Critical Thinking  
-- **Languages**: Khmer (Fluent), English (Intermediate), French (Intermediate)  
+
+**Languages**: Khmer (Native) · English (Professional) · French (Conversational)  
 
 ---
 
-## 📂 Selected Projects
-- 🌾 **Waterlogging Risk Monitoring (Sentinel-1)** → Early warning system for rice farmers.  
-- 🐛 **Pest & Disease Risk Detection (Sentinel-2)** → Data-driven approach to reduce crop loss.  
-- 📈 **Rice Yield Forecasting** → Time series forecasting for agricultural planning.  
-- 🌱 **Crop Recommendation System** → Machine learning to suggest suitable crops.  
-- 🚗 **Traffic Prediction** → Time series model for vehicle traffic analysis.  
-- 📊 **AAPL Stock Price Prediction** → Deep learning to forecast stock market trends.  
-- ✍️ **Handwritten Digit Recognition (MNIST)** → Deep learning for digit classification.  
+## 📂 Featured Projects
+- 🚗 **Urban Traffic Flow Prediction** → ARIMA models for >85% accurate forecasts. [🔗 Code](https://github.com/KosolCHOU/traffic-prediction)  
+- 📈 **Deep Learning Stock Forecasting** → LSTM/GRU for financial time series. [🔗 Code](https://github.com/KosolCHOU/aapl-stock-prediction)  
+- 🌾 **Geospatial Classification** → Machine learning on satellite imagery. [🔗 Code](https://github.com/KosolCHOU/geospatial-classification)  
+- 🌱 **Advanced Time Series Forecasting** → Ensemble models improving accuracy by 35%. [🔗 Code](https://github.com/KosolCHOU/time-series-forecasting)  
 
 ---
 
 ## 🏆 Achievements
-- **MoEYS Full Scholarship** → Top 80 nationwide in ITC entrance exam (2022).  
-- **IP Paris Entrance Exam Shortlist** → ENSAE Paris & Télécom Paris (2023).  
+- **MoEYS Full Scholarship** (Top 80 in Cambodia, ITC Entrance Exam – 2022)  
+- **IP Paris Shortlist** (ENSAE Paris & Télécom Paris, 2023)  
 
 ---
 
@@ -44,6 +40,7 @@ Currently, I am seeking **internship opportunities** to apply my knowledge in re
 
 ---
 
-## 📫 Contact
-- 📧 Email: [kosolchou@gmail.com](mailto:kosolchou@gmail.com)  
-- 🌐 GitHub: [github.com/KosolCHOU](https://github.com/KosolCHOU)  
+## 📫 Let’s Connect
+- 📧 [kosolchou@gmail.com](mailto:kosolchou@gmail.com)  
+- 🌐 [Portfolio Website](https://kosolchou.github.io/my-portfolio)  
+- 🐙 [GitHub](https://github.com/KosolCHOU)  
