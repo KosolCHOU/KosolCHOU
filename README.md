@@ -1,8 +1,8 @@
-# 👋 Hi, I'm CHOU Kosol  
-
-🌾 Data Science student at the Institute of Technology of Cambodia  
-🚀 Exploring Machine Learning, Time Series, and AgriTech  
-🌍 Building **CropXcel** – an AI-powered platform to help farmers fight crop waterlogging using satellite data  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hello+There!+I'm+Kosol+👋;Turning+Data+Into+Solutions+🌾;Always+Learning+Always+Sharing+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
